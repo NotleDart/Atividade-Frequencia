@@ -114,9 +114,8 @@ biblioteca.exe
 
 ## Autor
 
-**Elton Junior**
+**Aluno:Elton Duarte**
 
-Estudante de Ciência da Computação.
 
 ---
 
